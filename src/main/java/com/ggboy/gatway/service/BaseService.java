@@ -1,8 +1,8 @@
-package com.ggboy.api.service;
+package com.ggboy.gatway.service;
 
-import com.ggboy.api.domain.RequestParam;
-import com.ggboy.api.domain.ResponseParam;
-import com.ggboy.api.exception.BusinessException;
+import com.ggboy.gatway.domain.RequestParam;
+import com.ggboy.gatway.domain.ResponseParam;
+import com.ggboy.gatway.exception.BusinessException;
 
 import java.lang.reflect.ParameterizedType;
 

@@ -1,4 +1,4 @@
-package com.ggboy.api.exception;
+package com.ggboy.gatway.exception;
 
 public class BusinessException extends RuntimeException {
     private String code;

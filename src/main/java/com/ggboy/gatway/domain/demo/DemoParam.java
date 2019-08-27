@@ -1,6 +1,6 @@
-package com.ggboy.api.domain.demo;
+package com.ggboy.gatway.domain.demo;
 
-import com.ggboy.api.domain.RequestParam;
+import com.ggboy.gatway.domain.RequestParam;
 import lombok.Getter;
 import lombok.Setter;
 

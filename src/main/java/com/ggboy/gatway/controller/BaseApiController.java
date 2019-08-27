@@ -1,10 +1,9 @@
-package com.ggboy.api.controller;
+package com.ggboy.gatway.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ggboy.api.domain.RequestParam;
-import com.ggboy.api.domain.ResponseParam;
-import com.ggboy.api.exception.BusinessException;
-import com.ggboy.api.service.BaseService;
+import com.ggboy.gatway.domain.RequestParam;
+import com.ggboy.gatway.exception.BusinessException;
+import com.ggboy.gatway.service.BaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,4 +1,4 @@
-package com.ggboy.api;
+package com.ggboy.gatway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

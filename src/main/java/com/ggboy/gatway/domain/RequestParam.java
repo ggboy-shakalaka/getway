@@ -1,4 +1,4 @@
-package com.ggboy.api.domain;
+package com.ggboy.gatway.domain;
 
 import lombok.Getter;
 import lombok.Setter;
